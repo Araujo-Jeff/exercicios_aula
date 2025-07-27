@@ -1,8 +1,1 @@
-![Exercicio_8](https://github.com/user-attachments/assets/6c886ab5-3784-4439-bcd0-758c39deeff4)
-![Exercicio_7](https://github.com/user-attachments/assets/64a06cbe-f346-4683-bd7b-ca7ba73352b8)
-![Exercicio_6](https://github.com/user-attachments/assets/74e39634-0fbc-4f4f-b2f7-789eede1e07f)
-![Exercicio_5](https://github.com/user-attachments/assets/06256b31-b823-4f32-8611-d6ed238a8b3f)
-![Exercicio_4](https://github.com/user-attachments/assets/55dc54b4-dbce-45fa-bab9-df39ad89e0d3)
-![Exercicio_3](https://github.com/user-attachments/assets/a9fa7732-5ddf-4952-b7b7-e1f4d8eff3f8)
-![Exercicio_2](https://github.com/user-attachments/assets/130a865a-22b3-4a1d-94a1-a3acdf00816c)
-![Exercicio_1](https://github.com/user-attachments/assets/6f89e35b-373d-4c0c-b1a3-184c00e56c41)
+
